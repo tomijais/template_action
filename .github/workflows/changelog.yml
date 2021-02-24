@@ -2,9 +2,9 @@ name: changelog
 
 on:
   pull_request:
-    branches: 
-      - develop
+    branches: [develop]
       
+jobs:      
   release:
     runs-on: ubuntu-latest
     steps:
