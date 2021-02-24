@@ -1,15 +1,18 @@
 name: changelog
 
 on:
-  pull_request:
+  push:
     types: opened
-    branches: [main, develop]
+    branches: [main]
+    paths-ignore:
+      - 'package.json'
+      - 'CHANGELOG.md'
 jobs:
   release:
     runs-on: ubuntu-latest
     steps:
       - name: Release Changelog Builder
         uses: mikepenz/release-changelog-builder-action@v1.5.0
-#        env:
- #         GITHUB_TOKEN: f58d6ff1a2bb54ede7c2e9c306be15fc89a098eb
+        env:
+          GITHUB_TOKEN: f58d6ff1a2bb54ede7c2e9c306be15fc89a098eb
           #GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
