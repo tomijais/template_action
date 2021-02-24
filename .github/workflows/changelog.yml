@@ -3,7 +3,8 @@ name: changelog
 on:
   push:
     types: opened
-    branches: [main]
+    branches:
+      - main
     paths-ignore:
       - 'package.json'
       - 'CHANGELOG.md'
