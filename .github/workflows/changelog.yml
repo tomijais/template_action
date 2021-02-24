@@ -1,0 +1,16 @@
+name: changelog
+
+on:
+  pull_request:
+    types: closed
+    branches: 
+      - develop
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build Changelog
+        uses: mikepenz/release-changelog-builder-action@main
+        env:
+          GITHUB_TOKEN: f58d6ff1a2bb54ede7c2e9c306be15fc89a098eb
+          #GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
