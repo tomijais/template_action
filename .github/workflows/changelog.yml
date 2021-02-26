@@ -11,6 +11,9 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
+      - name: Install Git
+        run: 'apt install git'
+  
       - name: Checkout
         uses: actions/checkout@v2
         with:
