@@ -22,5 +22,5 @@ jobs:
       - name: Release Changelog Builder
         uses: mikepenz/release-changelog-builder-action@v1.5.0
         env:
-          GITHUB_TOKEN: f58d6ff1a2bb54ede7c2e9c306be15fc89a098eb
+          GITHUB_TOKEN: bd624dcfc2a68f52cc2169bc22187bbf8be7c161
           #GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
