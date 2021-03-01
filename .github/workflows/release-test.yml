@@ -42,5 +42,3 @@ jobs:
           outputFile: CHANGELOG.md    # optional
     # Defines the token to use to execute the git API requests with, uses `env.GITHUB_TOKEN` by default
           token: ${{ secrets.ACCESS_TOKEN }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
