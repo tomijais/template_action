@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.7](https://github.com/tomijais/test/tree/1.0.7) (2021-03-02)
+
+**Merged pull requests:**
+
+- Update1 CI-Changelog.yml [\#21](https://github.com/tomijais/test/pull/21)
+
 ## [1.0.6](https://github.com/tomijais/test/tree/1.0.6) (2021-03-02)
 
 **Merged pull requests:**
