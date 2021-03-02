@@ -4,6 +4,7 @@
 
 **Merged pull requests:**
 
+- Update CI-Changelog.yml [\#17](https://github.com/tomijais/test/pull/17)
 - Update README.md [\#16](https://github.com/tomijais/test/pull/16)
 
 ## [1.0.2](https://github.com/tomijais/test/tree/1.0.2) (2021-03-01)
