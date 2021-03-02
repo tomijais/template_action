@@ -4,6 +4,12 @@
 
 **Merged pull requests:**
 
+- Update README.md [\#16](https://github.com/tomijais/test/pull/16)
+
+## [1.0.2](https://github.com/tomijais/test/tree/1.0.2) (2021-03-01)
+
+**Merged pull requests:**
+
 - Update agregado 0.0.1 [\#15](https://github.com/tomijais/test/pull/15)
 - Update agregado 0.0.1 [\#14](https://github.com/tomijais/test/pull/14)
 - update - [\#13](https://github.com/tomijais/test/pull/13)
