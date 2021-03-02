@@ -1,8 +1,8 @@
 name: CI - Changelog
 
 on:
-  # push:
-    # branches: [ main ]
+  push:
+     branches: [ release ]
   release: 
     types: [ released ]
     branches: [ main ]
@@ -20,8 +20,6 @@ jobs:
         uses: heinrichreimer/github-changelog-generator-action@v2.1.1
         with:
           token: ${{secrets.ACCESS_TOKEN}}
-          issues: true
-          issuesWoLabels: true
           pullRequests: true
           prWoLabels: true
           unreleased: true
