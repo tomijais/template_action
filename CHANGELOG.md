@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased](https://github.com/tomijais/test/tree/HEAD)
+## [1.0.3](https://github.com/tomijais/test/tree/1.0.3) (2021-03-02)
 
 **Merged pull requests:**
 
