@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.0.8](https://github.com/tomijais/test/tree/1.0.8) (2021-03-02)
+
 ## [1.0.7](https://github.com/tomijais/test/tree/1.0.7) (2021-03-02)
 
 **Merged pull requests:**
