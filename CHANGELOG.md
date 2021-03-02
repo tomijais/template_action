@@ -1,16 +1,18 @@
 # Changelog
 
+## [1.0.5](https://github.com/tomijais/test/tree/1.0.5) (2021-03-02)
+
 ## [1.0.4](https://github.com/tomijais/test/tree/1.0.4) (2021-03-02)
 
 **Merged pull requests:**
 
+- Delete changelog.yml [\#19](https://github.com/tomijais/test/pull/19)
 - Update README.md [\#18](https://github.com/tomijais/test/pull/18)
 
 ## [1.0.3](https://github.com/tomijais/test/tree/1.0.3) (2021-03-02)
 
 **Merged pull requests:**
 
-- Delete changelog.yml [\#19](https://github.com/tomijais/test/pull/19)
 - Update CI-Changelog.yml [\#17](https://github.com/tomijais/test/pull/17)
 - Update README.md [\#16](https://github.com/tomijais/test/pull/16)
 
