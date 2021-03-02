@@ -3,6 +3,8 @@ name: CI - Changelog
 on:
   push:
     branches: [ main ]
+  release: 
+    branches: [ main ]
 
 jobs:
   changelog_prerelease:
