@@ -1,60 +1,24 @@
 # Changelog
 
-## [1.0.8](https://github.com/tomijais/test/tree/1.0.8) (2021-03-02)
+## [1.0.9](https://github.com/tomijais/test/tree/1.0.9) (2021-03-05)
 
 ## [1.0.7](https://github.com/tomijais/test/tree/1.0.7) (2021-03-02)
 
-**Merged pull requests:**
-
-- Update1 CI-Changelog.yml [\#21](https://github.com/tomijais/test/pull/21)
+## [1.0.8](https://github.com/tomijais/test/tree/1.0.8) (2021-03-02)
 
 ## [1.0.6](https://github.com/tomijais/test/tree/1.0.6) (2021-03-02)
-
-**Merged pull requests:**
-
-- actualizar ci changelog [\#20](https://github.com/tomijais/test/pull/20)
 
 ## [1.0.5](https://github.com/tomijais/test/tree/1.0.5) (2021-03-02)
 
 ## [1.0.4](https://github.com/tomijais/test/tree/1.0.4) (2021-03-02)
 
-**Merged pull requests:**
-
-- Delete changelog.yml [\#19](https://github.com/tomijais/test/pull/19)
-- Update README.md [\#18](https://github.com/tomijais/test/pull/18)
-
 ## [1.0.3](https://github.com/tomijais/test/tree/1.0.3) (2021-03-02)
 
-**Merged pull requests:**
-
-- Update CI-Changelog.yml [\#17](https://github.com/tomijais/test/pull/17)
-- Update README.md [\#16](https://github.com/tomijais/test/pull/16)
-
 ## [1.0.2](https://github.com/tomijais/test/tree/1.0.2) (2021-03-01)
-
-**Merged pull requests:**
-
-- Update agregado 0.0.1 [\#15](https://github.com/tomijais/test/pull/15)
-- Update agregado 0.0.1 [\#14](https://github.com/tomijais/test/pull/14)
-- update - [\#13](https://github.com/tomijais/test/pull/13)
 
 ## [1.0.1](https://github.com/tomijais/test/tree/1.0.1) (2021-02-26)
 
 ## [1.0.0](https://github.com/tomijais/test/tree/1.0.0) (2021-02-26)
-
-**Merged pull requests:**
-
-- Update changelog.yml [\#12](https://github.com/tomijais/test/pull/12)
-- Update changelog.yml [\#11](https://github.com/tomijais/test/pull/11)
-- Update changelog.yml [\#10](https://github.com/tomijais/test/pull/10)
-- Update changelog.yml [\#9](https://github.com/tomijais/test/pull/9)
-- Update changelog.yml [\#7](https://github.com/tomijais/test/pull/7)
-- Develop [\#6](https://github.com/tomijais/test/pull/6)
-- a [\#5](https://github.com/tomijais/test/pull/5)
-- Delete .github/workflows directory [\#4](https://github.com/tomijais/test/pull/4)
-- Update changelog.yml [\#3](https://github.com/tomijais/test/pull/3)
-- Update README.md [\#2](https://github.com/tomijais/test/pull/2)
-- Create changelog.yml [\#1](https://github.com/tomijais/test/pull/1)
 
 
 
